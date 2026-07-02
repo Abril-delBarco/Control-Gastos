@@ -1,4 +1,3 @@
-#Control de Gastos
 Aplicación de escritorio desarrollada en Python para gestionar finanzas personales: registrar gastos, marcarlos como pagados o pendientes, filtrarlos por mes y visualizar un balance general.
 Este proyecto lo desarrollé aplicando Programación Orientada a Objetos (POO), como forma de practicar y afianzar estos conceptos.
 
